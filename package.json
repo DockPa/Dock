@@ -1,0 +1,8 @@
+{
+  "name": "dock-midnight-full",
+  "version": "5.1.0",
+  "description": "DOCK Full App - Midnight Theme, PWA, Stripe 2.99",
+  "dependencies": {
+    "stripe": "^14.14.0"
+  }
+}
